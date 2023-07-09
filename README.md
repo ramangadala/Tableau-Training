@@ -11,3 +11,8 @@ Free Tableau Desktop Download: https://www.tableau.com/
 
 
 **Assignment 1:**  Try to replicate one or two dashboards mentioned in the **Superstore_Master.twbx** using **Superstore_Training.twbx** file
+
+**Questions:** 
+1. How do we collect the requirements for the data visualization ( Startegic(CEO, CFOs), Tactical (Middle management), Operational (End users on the field))
+2. DIfference between behavioural analysis requests Vs. Data related analysis( Quantification)
+3. More details around data connectivity and importing data 
